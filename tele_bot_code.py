@@ -2,7 +2,7 @@ import telepot
 import requests
 
 # Replace with your bot token
-TOKEN = "7100408493:AAGq6lNM5ugAmLBERDaFsUzUXNSiCrxKkTg"
+TOKEN = "7100408493:AAGq6lN"
 
 # Create a bot instance
 bot = telepot.Bot(TOKEN)
